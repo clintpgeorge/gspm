@@ -1,2 +1,1 @@
-# gspm
-Gaussian Shrinkage Partial Membership Model
+# Gaussian Shrinkage Partial Membership Model

@@ -1,0 +1,17 @@
+Package: gspm
+Type: Package
+Title: Gaussian Shrinkage Partial Membership Model
+Version: 0.1.0
+Author: Clint P. George 
+Maintainer: Clint P. George <clintpg@ufl.edu>
+Description: Markov chain Monte Carlo sampling for Gaussian Shrinkage Partial Membership Models for gene expression data.   
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends:
+    Rcpp (>= 0.12.10),
+    RcppArmadillo (>= 0.4.000.2)
+LinkingTo: 
+    Rcpp, 
+    RcppArmadillo
+RoxygenNote: 6.0.1
